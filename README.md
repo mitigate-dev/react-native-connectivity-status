@@ -1,6 +1,9 @@
 # React-native-connectivity-status
 
 forked from [nearit/react-native-connectivity-status](https://github.com/mitigate-dev/react-native-connectivity-status)
+to fix build issues on newer React Native. Tested on 0.73.6
+
+===================================
 
 > A [React Native](https://facebook.github.io/react-native/) module to check Bluetooth and Location status on Android and iOS
 
